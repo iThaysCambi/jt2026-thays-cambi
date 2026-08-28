@@ -1,3 +1,7 @@
+# 🎥 Vídeo Pitch (3 min): [Assista à apresentação do projeto no Google Drive](https://drive.google.com/file/d/1A1NlztWv-r818IdP9Nk-JENNMfzos8UO/view?usp=sharing)
+
+---
+
 # Hackathon Jovens Talentos Seazone 2026 — Recomendação de Investimento em Short Stay · Itapema (SC)
 
 > **Analista:** Thays Cambi & Copiloto Técnico (Data Science Imobiliário / M&A Short Stay)
