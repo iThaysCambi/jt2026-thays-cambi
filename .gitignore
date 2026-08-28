@@ -1,0 +1,15 @@
+# Environment / secrets - NAO commitar
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jeitos temporarios
+*pytest_cache
+
+# Arquivos temporarios de saida do shell
+step*_out.txt
+run_out.txt
