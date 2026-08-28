@@ -1,4 +1,4 @@
-# 🎥 Vídeo Pitch (3 min): [Assista à apresentação do projeto no Google Drive](https://drive.google.com/file/d/1A1NlztWv-r818IdP9Nk-JENNMfzos8UO/view?usp=sharing)
+# 🎥 Vídeo Pitch (3 min): [Assista à apresentação do projeto no Google Drive](https://drive.google.com/file/d/1mXi6szzZ6y4XHFOYhbFh-nthk5Ip73aK/view?usp=sharing)
 
 ---
 
